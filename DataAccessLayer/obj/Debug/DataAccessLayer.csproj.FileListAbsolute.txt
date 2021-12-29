@@ -1,0 +1,36 @@
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,22 @@
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\bin\Debug\EntityLayer.dll
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.dll
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\EntityLayer\obj\Debug\EntityLayer.pdb

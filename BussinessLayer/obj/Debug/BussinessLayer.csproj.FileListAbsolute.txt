@@ -1,0 +1,44 @@
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\DataAccessLayer.dll
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\EntityLayer.dll
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\EntityLayer.pdb
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\BussinessLayer\obj\Debug\BussinessLayer.pdb

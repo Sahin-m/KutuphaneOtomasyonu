@@ -1,0 +1,109 @@
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\gp_kutuphane_otomasyonu.exe.config
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\gp_kutuphane_otomasyonu.exe
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\gp_kutuphane_otomasyonu.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\BussinessLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ZedGraph.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\BussinessLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ZedGraph.xml
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_KitapTakibi.resources
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_KitapVermeİslemi.resources
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_KitapIslemleri.resources
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_OgrenciIslemleri.resources
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_kullanici_girisi.resources
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_Menu.resources
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.exe
+C:\Users\mhmmd\Desktop\3. sınıf\görsel programlama\final\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\gp_kutuphane_otomasyonu.exe.config
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\gp_kutuphane_otomasyonu.exe
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\gp_kutuphane_otomasyonu.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\BussinessLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\BussinessLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ZedGraph.xml
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_KitapTakibi.resources
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_KitapVermeİslemi.resources
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_KitapIslemleri.resources
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_OgrenciIslemleri.resources
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_kullanici_girisi.resources
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_Menu.resources
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.exe
+C:\Users\mhmmd\Desktop\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\gp_kutuphane_otomasyonu.exe.config
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\gp_kutuphane_otomasyonu.exe
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\gp_kutuphane_otomasyonu.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\BussinessLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\EntityLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\DataAccessLayer.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\BussinessLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\EntityLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ZedGraph.xml
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\DataAccessLayer.pdb
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_KitapTakibi.resources
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_KitapVermeİslemi.resources
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_KitapIslemleri.resources
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_OgrenciIslemleri.resources
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_kullanici_girisi.resources
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.frm_Menu.resources
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.exe
+C:\Users\mhmmd\Desktop\172119008_Muhammed_ŞAHİN_Görsel_Programlama\gp_kutuphane_otomasyonu\gp_kutuphane_otomasyonu\obj\Debug\gp_kutuphane_otomasyonu.pdb
